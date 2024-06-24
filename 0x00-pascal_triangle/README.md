@@ -1,1 +1,1 @@
-# 0x00-pascal_triangle
+# Pascal triangle in Python
